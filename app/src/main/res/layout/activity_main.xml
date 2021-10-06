@@ -12,7 +12,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="#ffff0066"
-        android:text="User Name"
+        android:text="Ali"
         android:textSize="16sp"
         android:textStyle="bold"
         android:textColor="#ff000000"
